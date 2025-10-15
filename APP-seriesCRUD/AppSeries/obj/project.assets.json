@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gabri\\Documents\\Projetos\\Projetos-em-dotNET\\Hospedagem\\Hospedagem\\Hospedagem.csproj",
-      "projectName": "Hospedagem",
-      "projectPath": "C:\\Users\\gabri\\Documents\\Projetos\\Projetos-em-dotNET\\Hospedagem\\Hospedagem\\Hospedagem.csproj",
+      "projectUniqueName": "C:\\Users\\gabri\\Documents\\Projetos\\Projetos-em-dotNET\\APP-seriesCRUD\\AppSeries\\AppSeries.csproj",
+      "projectName": "AppSeries",
+      "projectPath": "C:\\Users\\gabri\\Documents\\Projetos\\Projetos-em-dotNET\\APP-seriesCRUD\\AppSeries\\AppSeries.csproj",
       "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gabri\\Documents\\Projetos\\Projetos-em-dotNET\\Hospedagem\\Hospedagem\\obj\\",
+      "outputPath": "C:\\Users\\gabri\\Documents\\Projetos\\Projetos-em-dotNET\\APP-seriesCRUD\\AppSeries\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gabri\\AppData\\Roaming\\NuGet\\NuGet.Config"

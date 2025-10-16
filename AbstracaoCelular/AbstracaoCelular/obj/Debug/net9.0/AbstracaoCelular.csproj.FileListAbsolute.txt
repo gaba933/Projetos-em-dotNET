@@ -1,0 +1,15 @@
+C:\Users\gabri\Documents\Projetos\Projetos-em-dotNET\AbstracaoCelular\AbstracaoCelular\bin\Debug\net9.0\AbstracaoCelular.exe
+C:\Users\gabri\Documents\Projetos\Projetos-em-dotNET\AbstracaoCelular\AbstracaoCelular\bin\Debug\net9.0\AbstracaoCelular.deps.json
+C:\Users\gabri\Documents\Projetos\Projetos-em-dotNET\AbstracaoCelular\AbstracaoCelular\bin\Debug\net9.0\AbstracaoCelular.runtimeconfig.json
+C:\Users\gabri\Documents\Projetos\Projetos-em-dotNET\AbstracaoCelular\AbstracaoCelular\bin\Debug\net9.0\AbstracaoCelular.dll
+C:\Users\gabri\Documents\Projetos\Projetos-em-dotNET\AbstracaoCelular\AbstracaoCelular\bin\Debug\net9.0\AbstracaoCelular.pdb
+C:\Users\gabri\Documents\Projetos\Projetos-em-dotNET\AbstracaoCelular\AbstracaoCelular\obj\Debug\net9.0\AbstracaoCelular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\Projetos\Projetos-em-dotNET\AbstracaoCelular\AbstracaoCelular\obj\Debug\net9.0\AbstracaoCelular.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\Projetos\Projetos-em-dotNET\AbstracaoCelular\AbstracaoCelular\obj\Debug\net9.0\AbstracaoCelular.AssemblyInfo.cs
+C:\Users\gabri\Documents\Projetos\Projetos-em-dotNET\AbstracaoCelular\AbstracaoCelular\obj\Debug\net9.0\AbstracaoCelular.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\Projetos\Projetos-em-dotNET\AbstracaoCelular\AbstracaoCelular\obj\Debug\net9.0\AbstracaoCelular.sourcelink.json
+C:\Users\gabri\Documents\Projetos\Projetos-em-dotNET\AbstracaoCelular\AbstracaoCelular\obj\Debug\net9.0\AbstracaoCelular.dll
+C:\Users\gabri\Documents\Projetos\Projetos-em-dotNET\AbstracaoCelular\AbstracaoCelular\obj\Debug\net9.0\refint\AbstracaoCelular.dll
+C:\Users\gabri\Documents\Projetos\Projetos-em-dotNET\AbstracaoCelular\AbstracaoCelular\obj\Debug\net9.0\AbstracaoCelular.pdb
+C:\Users\gabri\Documents\Projetos\Projetos-em-dotNET\AbstracaoCelular\AbstracaoCelular\obj\Debug\net9.0\AbstracaoCelular.genruntimeconfig.cache
+C:\Users\gabri\Documents\Projetos\Projetos-em-dotNET\AbstracaoCelular\AbstracaoCelular\obj\Debug\net9.0\ref\AbstracaoCelular.dll

@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "name": "C#: Hospedagem",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}\\Hospedagem\\Hospedagem\\Hospedagem.csproj",
+            "launchConfigurationId": "TargetFramework=;Hospedagem"
+        }
+    ]
+}
